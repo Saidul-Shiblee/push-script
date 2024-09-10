@@ -10,7 +10,7 @@
         measurementId: 'G-Y2QCTPPVPS'
     };
 
-    const topic = 'aegyptenhotels123'; // Replace with your desired topic
+    const topic = 'topic2'; // Replace with your desired topic
 
     // Load Firebase SDK
     const firebaseAppScript = document.createElement('script');
